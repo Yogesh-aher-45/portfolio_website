@@ -83,15 +83,12 @@
         flex-direction: column-reverse;
         margin-bottom: 50px;
     }
-    .footer-email-input{
+     .footer-email-input{
         padding: 10px 10px;
-        
-    }
-    .footer-email-input input{
-        font-size: 15px;
-    }
+     }
     .footer-subscribe{
         padding: 10px 10px;
         font-size: 15px;
     }
+   
 }
